@@ -1,5 +1,5 @@
 class Kurl < Formula
-  desc "A lightweight CLI tool to parse and output URL components in plain text or JSON"
+  desc "Lightweight CLI tool to parse and output URL components in plain text or JSON"
   homepage "https://github.com/kzbt/kurl"
   url "https://github.com/kzbt/kurl/archive/refs/tags/v0.1.1.tar.gz"
   sha256 "c007aff8e23afa75d146f35b92b7f72f8348b4f35903feb7a7e4a00dbaca8d7c"
